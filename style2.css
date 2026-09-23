@@ -1,0 +1,26 @@
+body{
+    background-color: beige;
+}
+.res1{
+    position: absolute;
+    align-items: center;
+    right: 25%;
+    background-color: white;
+    border-radius: 25px;
+    top: 20%;
+}
+.ainesosat{
+    position: absolute;
+    align-items: center;
+    right: 45%;
+    background-color: rgb(181, 181, 181);
+    border-radius: 25px;
+    top: 10%;
+}
+h1{
+       position: absolute;
+    align-items: center;
+    right: 48%;
+    top: 1%;
+    color: darkslategray;
+}

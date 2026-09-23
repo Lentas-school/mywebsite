@@ -1,0 +1,15 @@
+h1{
+    font-family: arial;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: lightseagreen;
+}
+footer{
+    background-color: lightblue;
+}
+.img12{
+    position: relative;
+    width: 40%;
+    height: 35%;
+}
